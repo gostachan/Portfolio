@@ -14,3 +14,24 @@
 ### その他
 [Zenn](https://zenn.dev/gostachan)\
 [Qiita](https://qiita.com/gostachan)
+
+# 技術スタック
+## 言語
+* C
+* C++
+* Ruby
+* JavaScript
+## フレームワーク
+* Ruby on Rails
+* Next.js
+* React
+## インフラ
+* AWS
+## データベース
+* MySQL
+## その他
+* Git
+* Git Hub
+* Vim
+## 興味あり
+* Rust
