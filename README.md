@@ -3,7 +3,7 @@
 [ショートカットマネージャー(バックエンド)](https://github.com/gostachan/shortcuts-main)
 
 ### Next.js
-[ショートカットマネージャー(フロントエンド)](https://github.com/gostachan/shortcuts-main)
+[ショートカットマネージャー(フロントエンド)](https://rocky-iron-0a0.notion.site/fb73d265821a4c83852971d15e35187c)
 
 ### C
 [C道場](https://github.com/gostachan/C-Practice-Dojo)
